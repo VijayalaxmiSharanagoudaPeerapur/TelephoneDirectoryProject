@@ -1,0 +1,4 @@
+1000|Vijayalaxmi|1000|Computer Science|DWD|1000001,1000002,1000003
+1001|Rahul|1001|Electronics|HUB|1001001
+1002|Anita|1000|Computer Science|BLR|-
+1003|vishal|1001|Electronics|vija|1001002
